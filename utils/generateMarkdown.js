@@ -16,21 +16,6 @@ function renderBadge(license) {
     }
 };
 
-// function renderMedia(media) {
-//     if (media == 'screenshot1') {
-//         return "![README screenshots](./assets/images/screenshot1.PNG)"
-//     }
-//     if (media == 'screenshot2') {
-//         return "![README screenshots](./assets/images/screenshot2.PNG)"
-//     }
-//     if (media == 'screenshot3') {
-//         return "![README screenshots](./assets/images/screenshot3.PNG)"
-//     }
-//     if (media == 'screenshot4') {
-//         return "![README screenshots](./assets/images/screenshot4.PNG)"
-//     }
-// };
-
 // Function to generate markdown for README
 // Format was templated the same as it is shown in professional README files
 generateMarkdown = response => {
