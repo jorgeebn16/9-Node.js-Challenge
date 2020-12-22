@@ -21,8 +21,6 @@ function renderBadge(license) {
 generateMarkdown = response => {
     return `# ${response.Title}
 
-${renderBadge(response.License)}
-
 ## Table of Contents
 
 * [Description](#Description)
@@ -31,38 +29,69 @@ ${renderBadge(response.License)}
 * [License](#License)
 * [Contributing](#Contributing)
 * [Test](#Test)
+* [Screenshot](#screenshot)
+* [Deployment](#deployment)
+</br>
+</br>
 
 ## Description
 ${response.Description}
+</br>
+</br>
 
 ## Installation
-${response.Installationdetails}
+</br>
 
-    ${response.Installation}
+### To use this application, please install:
+* ${response.Installationdetails}
+</br>
+</br>
+
+### code utilized to download these files
+* ${response.Installation}
+</br>
+</br>
 
 ## Usage
 ${response.Usage}
+</br>
+</br>
 
-${renderMedia(response.Media)}
-
-## License
-${response.License}  
+## License 
+${renderBadge(response.License)}
+</br>
+</br>
 
 ## Badges
 ${response.Badges}
-
-## Contributing
-${response.Contributing}
+</br>
+</br>
 
 ## Test
 ${response.Test}
+</br>
+</br>
+
+## Screenshot
+View Screenshot [${response.Screenshot}](${response.Screenshot}).;
+</br>
+</br>
+
+## Deployment
+View the deployed page at [${response.Title}](${response.deployment}).;
+</br>
+</br>
+
+## Contributing
+${response.Contributing}
+</br>
+</br>
 
 Would you like to reach us?
 </br>
 Contact Me:
 
 Github: ${response.Github}
-
 Email: ${response.Email}
 `;
 }
