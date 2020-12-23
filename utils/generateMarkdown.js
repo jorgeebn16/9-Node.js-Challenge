@@ -45,9 +45,8 @@ ${response.Description}
 ### To use this application, please install:
 * ${response.Installationdetails}
 </br>
-</br>
 
-### code utilized to download these files
+### Code utilized to download these files?
 * ${response.Installation}
 </br>
 </br>
@@ -73,7 +72,7 @@ ${response.Test}
 </br>
 
 ## Screenshot
-View Screenshot [${response.Screenshot}](${response.Screenshot})
+![A sample screenshot of a README](.${response.Screenshot})
 </br>
 </br>
 

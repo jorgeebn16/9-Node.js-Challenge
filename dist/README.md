@@ -1,4 +1,4 @@
-# 9-Node.js-Challenge
+# 09-Node.js-Challenge
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@
 </br>
 
 ## Description
-This Node.js application that will generate a Readme file
+Node.js application that will generate a README file.
 </br>
 </br>
 
@@ -24,10 +24,9 @@ This Node.js application that will generate a Readme file
 ### To use this application, please install:
 * npm inquirer
 </br>
-</br>
 
-### code utilized to download these files
-* None
+### Code utilized to download these files?
+* None.
 </br>
 </br>
 
@@ -52,12 +51,12 @@ Run the javascript file in node and check for lines in which the function is not
 </br>
 
 ## Screenshot
-View Screenshot [./assets/images/test.png](./assets/images/test.png)
+![A sample screenshot of a README](../assets/images/screenshot.png)
 </br>
 </br>
 
 ## Deployment
-View the deployed page at [9-Node.js-Challenge](https://github.com/jorgeebn16/9-Node.js-Challenge)
+View the deployed page at [09-Node.js-Challenge](https://github.com/jorgeebn16/9-Node.js-Challenge)
 </br>
 </br>
 

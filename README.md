@@ -53,7 +53,7 @@ Run the javascript file in node and check for lines in which the function is not
 </br>
 
 ## Screenshot
-![Application Preview](./assets/images/test.png)
+![Application Preview](./assets/images/screenshot.png)
 </br>
 </br>
 
