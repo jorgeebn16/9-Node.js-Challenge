@@ -9,6 +9,7 @@
 * [Contributing](#Contributing)
 * [Test](#Test)
 * [Screenshot](#screenshot)
+* [Walkthrough-Video](#walkthrough-video)
 * [Deployment](#deployment)
 </br>
 </br>
@@ -32,7 +33,7 @@ Node.js application that will generate a README file.
 </br>
 
 ## Usage
-After cloning the repo and installing npm inquirer, use the command line to navigate and type node index. Follow prompts to enter required fields and select from optional additional fields. 
+After cloning the repo and installing npm inquirer, use the command line to navigate and type node index. Follow prompts to enter required fields and select from optional additional fields. The README will be created in the ./dist folder.
 </br>
 </br>
 
@@ -52,12 +53,18 @@ Run the javascript file in node and check for lines in which the function is not
 </br>
 
 ## Screenshot
-View Screenshot [./assets/images/test.png](./assets/images/test.png).;
+![Application Preview](./assets/images/test.png)
+</br>
+</br>
+
+## Walkthrough-Video
+[walkthrough-video](https://drive.google.com/file/d/13E2gmRA4cBjv7X6Jyry96L1-srD2pGHd/view)
+
 </br>
 </br>
 
 ## Deployment
-View the deployed page at [09-Node.js-Challenge](https://github.com/jorgeebn16/portfolio-generator).;
+View the deployed page at [09-Node.js-Challenge](https://github.com/jorgeebn16/9-Node.js-Challenge)
 </br>
 </br>
 

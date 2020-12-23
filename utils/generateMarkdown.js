@@ -73,12 +73,12 @@ ${response.Test}
 </br>
 
 ## Screenshot
-View Screenshot [${response.Screenshot}](${response.Screenshot}).;
+View Screenshot [${response.Screenshot}](${response.Screenshot})
 </br>
 </br>
 
 ## Deployment
-View the deployed page at [${response.Title}](${response.deployment}).;
+View the deployed page at [${response.Title}](${response.deployment})
 </br>
 </br>
 

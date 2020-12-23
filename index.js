@@ -193,7 +193,7 @@ const questions = [{
 
 // function to write README file
 writeToFile = (fileName, data) => {
-    fs.writeFile(fileName, data, err => {
+    fs.writeFile(`./dist/${fileName}`, data, err => {
         if (err) {
             return console.log(err);
         }
